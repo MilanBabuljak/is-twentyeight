@@ -1,6 +1,6 @@
 {
   "name": "is-twentyeight",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Checks, if input is 28",
   "main": "index.js",
   "scripts": {
